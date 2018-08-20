@@ -1,0 +1,47 @@
+.sponsored-products .component-link {
+	display: block;
+	margin: 0 10px;
+	border: 1px solid black;
+}
+
+.sponsored-products .component-image {
+	background: white;
+	margin-bottom: 2px;
+	
+}
+
+.sponsored-products .component-title {
+	background: white;
+	border-top:1.5px solid #0e6993;
+	box-sizing: content-box;
+	color: black;
+	font-size: 14px;
+	/* height: 2.8em; */
+	margin: 0;
+	overflow: hidden;
+	padding: 5px 10px;
+	text-align: left;
+}
+
+.sponsored-products .component-description {
+	font-size: 14px;
+	font-weight: normal;
+	padding: 0 10px;
+}
+
+input[name^="useStoredCard"]{
+	margin-right: 0.5em;
+}
+
+.payHead{
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+.payBody{
+	font-weight: normal;
+}
+
+div.paymentButtons > table td > label{
+	font-weight: normal;
+}
+
